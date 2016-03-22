@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BonusSQLite</string>
+    <string name="hint">Buscar contacto</string>
+</resources>
